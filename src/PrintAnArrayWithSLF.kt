@@ -1,11 +1,13 @@
 import java.util.*
 
 /*
-    1. Print an Array using standard library Arrays
+    1. Print a Multi-dimensional Array
  */
 
 fun main() {
-    val array = intArrayOf(1,2,3,4,5,6)
+    val array = arrayOf(intArrayOf(1,2),
+    intArrayOf(1,2,3,4),
+    intArrayOf(34,45,67,78,67))
 
-    println(array.contentToString())
+    println(array.contentDeepToString())
 }
