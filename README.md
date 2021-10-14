@@ -8,3 +8,6 @@ Programming problems with solution
 3. **Print an array**
 4. **Concatenate Two Arrays**
 5. **Char Array to String**
+6. **Join Two Lists using addAll()**
+7. **Convert array to array list**
+8. **Union of two ArrayList**
